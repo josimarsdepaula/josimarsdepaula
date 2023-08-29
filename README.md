@@ -21,3 +21,4 @@
   <img alt="Classic ASP" height="28" width="56" src="https://user-images.githubusercontent.com/88748637/150883584-f1a99b8d-bd54-49de-b7ad-6b06c77f03d3.png">
   <img alt="Visual Basic 6" height="28" width="56" src="https://user-images.githubusercontent.com/88748637/150884149-e5d5cfce-f07c-4504-97fa-a00fd5741ad4.png">
 </p>
+![Snake animation](https://github.com/josimarsdepaula/josimarsdepaula/blob/output/github-contribution-grid-snake.svg)
