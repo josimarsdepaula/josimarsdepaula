@@ -1,15 +1,10 @@
  ## 📚 GitHub Status
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=josimarsdepaula&theme=soft-green&hide_border=true&card_width=100" alt="GitHub Streak" />
-  </a>
-  <a href="https://github.com/josimarsdepaula">
-    <img src="https://github-readme-stats.vercel.app/api?username=josimarsdepaula&show_icons=true&hide_border=true&card_width=100&title_color=A7F5AA&icon_color=4CAF50&text_color=A7F5AA&bg_color=222428" alt="Anurag's GitHub stats" />
-  </a>
-  <a href="https://github.com/josimarsdepaula">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josimarsdepaula&layout=compact&theme=shadow_green&hide_border=true&title_color=A7F5AA&icon_color=4CAF50&text_color=A7F5AA&bg_color=222428" alt="Top Languages" />
-  </a>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=josimarsdepaula&theme=vision-friendly-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<div>
+<a href="https://github.com/josimarsdepaula">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josimarsdepaula&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=josimarsdepaula&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
  ## 📚 Skills
 <p align="center">
