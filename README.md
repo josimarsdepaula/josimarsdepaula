@@ -1,13 +1,13 @@
  ## 📚 GitHub Status
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=benccalcyxzfi&theme=soft-green&hide_border=true&card_width=100" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=josimarsdepaula&theme=soft-green&hide_border=true&card_width=100" alt="GitHub Streak" />
   </a>
-  <a href="https://github.com/benccalcyxzfi">
-    <img src="https://github-readme-stats.vercel.app/api?username=benccalcyxzfi&show_icons=true&hide_border=true&card_width=100&title_color=A7F5AA&icon_color=4CAF50&text_color=A7F5AA&bg_color=222428" alt="Anurag's GitHub stats" />
+  <a href="https://github.com/josimarsdepaula">
+    <img src="https://github-readme-stats.vercel.app/api?username=josimarsdepaula&show_icons=true&hide_border=true&card_width=100&title_color=A7F5AA&icon_color=4CAF50&text_color=A7F5AA&bg_color=222428" alt="Anurag's GitHub stats" />
   </a>
-  <a href="https://github.com/benccalcyxzfi">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benccalcyxzfi&layout=compact&theme=shadow_green&hide_border=true&title_color=A7F5AA&icon_color=4CAF50&text_color=A7F5AA&bg_color=222428" alt="Top Languages" />
+  <a href="https://github.com/josimarsdepaula">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josimarsdepaula&layout=compact&theme=shadow_green&hide_border=true&title_color=A7F5AA&icon_color=4CAF50&text_color=A7F5AA&bg_color=222428" alt="Top Languages" />
   </a>
 </p>
 
