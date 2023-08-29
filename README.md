@@ -2,8 +2,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=josimarsdepaula&theme=vision-friendly-dark&date_format=j%20M%5B%20Y%5D&card_width=906)](https://git.io/streak-stats)
 <div>
 <a href="https://github.com/josimarsdepaula">
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josimarsdepaula&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=josimarsdepaula&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="1700em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josimarsdepaula&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api?username=josimarsdepaula&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
  ## 📚 Skills
