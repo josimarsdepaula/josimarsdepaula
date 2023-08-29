@@ -1,5 +1,5 @@
  ## 📚 GitHub Status
-[![GitHub Streak](https://streak-stats.demolab.com?user=josimarsdepaula&theme=vision-friendly-dark&date_format=j%20M%5B%20Y%5D&card_width=1012)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=josimarsdepaula&theme=vision-friendly-dark&date_format=j%20M%5B%20Y%5D&card_width=906)](https://git.io/streak-stats)
 <div>
 <a href="https://github.com/josimarsdepaula">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josimarsdepaula&layout=compact&langs_count=7&theme=dracula"/>
