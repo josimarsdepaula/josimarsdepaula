@@ -7,7 +7,7 @@
 ## 🛠️ Habilidades: 
 - 🗄️ Banco de Dados (Sql Server, Postgres, MongoDB)
 - 🐧 Linux
-- 📊 Análise de Dados( Power BI, Excel(Power Query e Dashboard)
+- 📊 Análise de Dados( Power BI, ETL, Excel(Power Query e Dashboard)
 - 🤖 Automação em Python
 - 🔄 Git
 - 👥 Métodologia SCRUM
